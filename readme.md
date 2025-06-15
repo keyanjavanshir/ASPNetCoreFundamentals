@@ -49,3 +49,10 @@ This path is designed to teach me how to build modern web applications using ASP
 
 This `.readme` file serves as a personal record of my progress while completing the Microsoft Learn path. 
 
+
+##  Next Learnings
+
+- [ASP.NET Core Minimal API – Microsoft Learn] (https://learn.microsoft.com/en-us/training/paths/aspnet-core-minimal-api/)
+- [Develop ASP Core API – Microsoft Learn] (https://learn.microsoft.com/en-us/training/paths/develop-asp-core-api/)
+- [Build Web Apps with Blazor – Microsoft Learn] (https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/)
+- [Design Data Storage Solutions – Microsoft Learn] (https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/)
